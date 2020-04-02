@@ -8,4 +8,4 @@ dataset/
 ~/*
 models/trained_models/*
 *.npy
-*.out
+*.bw.out
