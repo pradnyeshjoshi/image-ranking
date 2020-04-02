@@ -1,0 +1,10 @@
+__pycache__/
+models/__pycache__/
+embeddings/
+dataset/
+*.err
+*.ER
+*.OU
+~/*
+models/*
+*.npy
