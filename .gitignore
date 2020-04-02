@@ -6,5 +6,6 @@ dataset/
 *.ER
 *.OU
 ~/*
-models/*
+models/trained_models/*
 *.npy
+*.out
