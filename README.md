@@ -1,4 +1,9 @@
-# image_ranking
+## Learning Image Similarity with Image Ranking
+
+In this repository, we re-implement [Wang et al](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Wang_Learning_Fine-grained_Image_2014_CVPR_paper.pdf)'s work on learning fine-grained image similarity. The original paper proposes a deep ranking model that employs deep learning techniques to learn similarity metric directly from images, rather than hand-crafted features.
+
+- We compare different resnet architectures to extract image features.
+- We implement efficient triplet sampling with stochastic gradient descent to learn the model.
 
 
 ## Instructions to run
